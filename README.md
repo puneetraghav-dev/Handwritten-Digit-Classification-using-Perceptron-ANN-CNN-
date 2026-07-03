@@ -127,21 +127,6 @@ CNN achieves the highest performance due to its ability to learn spatial feature
 - Loss Curves
 - Model Evaluation Metrics
 
-(Add screenshots here)
-
----
-
-## 📁 Project Structure
-
-```
-├── CNN.ipynb
-├── README.md
-└── images/
-    ├── accuracy.png
-    ├── loss.png
-    └── prediction.png
-```
-
 ---
 
 ## ▶️ Installation
